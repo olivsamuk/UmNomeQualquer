@@ -1,6 +1,7 @@
 //
 //  main.cpp
 //  Quiz
+//  Um programa para testar seus conhecimentos sobre Ciência da Computação
 //
 //  Created by Samuel Silva on 14/06/16.
 //  Copyright (c) 2016 Samuel Silva. All rights reserved.
